@@ -1,6 +1,6 @@
-# Aula Ciudadana
+# Simulador RP
 
-Este repositorio contiene el código fuente de **Aula Ciudadana**, una aplicación web orientada a la educación cívica y participación ciudadana. El proyecto está diseñado para ofrecer materiales, recursos y herramientas interactivas que faciliten el aprendizaje sobre temas ciudadanos, democracia, derechos y responsabilidades.
+Este repositorio contiene el código fuente de **Simulador RP**, una aplicación web pertenecienta al Aula Ciudadana del IECM orientada a la educación cívica y participación ciudadana. El proyecto está diseñado para ofrecer materiales, recursos y herramientas interactivas que faciliten el aprendizaje sobre temas ciudadanos, democracia, derechos y responsabilidades.
 
 ## Características principales
 
